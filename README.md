@@ -1,1 +1,2 @@
-# 101306676_comp3133_assig2
+## Employee Management Applicaton - Front-end
+Framework: Angular
